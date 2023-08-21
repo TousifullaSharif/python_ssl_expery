@@ -10,7 +10,6 @@ colorama
 configobj
 constantly
 cryptography
-dbus-python
 distro
 distro-info
 ec2-hibinit-agent
