@@ -13,7 +13,6 @@ cryptography
 distro
 distro-info
 ec2-hibinit-agent
-hibagent
 httplib2
 hyperlink
 idna
