@@ -52,10 +52,3 @@ six
 slack-sdk
 sockets
 ssh-import-id
-ubuntu-advantage-tools
-ufw
-unattended-upgrades
-urllib3
-wadllib
-zipp
-zope.interface
