@@ -42,8 +42,6 @@ pyOpenSSL
 pyparsing
 pyrsistent
 pyserial
-python-apt==2.4.0+ubuntu1
-python-debian===0.1.43ubuntu1
 python-magic
 pytz
 PyYAML
