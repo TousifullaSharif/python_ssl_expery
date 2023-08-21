@@ -16,7 +16,7 @@ def send_slack_notification(domain, remaining_days):
         client = WebClient(token=slack_webhook_url)
         
         # Send the message to the Slack channel
-        response = client.chat_postMessage(channel='#your-channel-name', text=message)
+        response = client.chat_postMessage(channel='#t_temp', text=message)
         
         # Check if the message was sent successfully
         if response['ok']:
