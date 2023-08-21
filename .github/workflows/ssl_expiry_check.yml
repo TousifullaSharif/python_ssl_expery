@@ -10,7 +10,7 @@ env:
 
 jobs:
   ssl_expiry_check:
-    runs-on: <link>ubuntu-latest</link>
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
