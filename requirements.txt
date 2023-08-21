@@ -51,10 +51,7 @@ service-identity
 six
 slack-sdk
 sockets
-sos
 ssh-import-id
-systemd-python
-Twisted
 ubuntu-advantage-tools
 ufw
 unattended-upgrades
