@@ -3,7 +3,7 @@ import socket
 import datetime
 
 # List of domains to check
-domains = ["google.com"]
+domains = ["google.com", "github.com"]
 
 for domain in domains:
     try:
